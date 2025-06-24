@@ -1,4 +1,5 @@
 # Assignment: Hotel & Rooms Management App — Next.js 15.3.x+, TypeScript, MUI X, MongoDB (with Auth, Dockerized)
+### 4–6 Hour Estimated Delivery — Ensure Full Understanding of Code and Libraries Used (AI Tools Permitted)
 
 ## Overview
 
@@ -184,7 +185,6 @@ If you want to showcase your skills or go beyond the minimum requirements, you m
 * **Hotel/Room Details Page:** Add a detail view page for hotels and/or rooms.
 * **API Validation:** Use a library such as Zod or Joi to validate all API requests on the server side.
 * **Test Coverage:** Add automated tests (unit or integration) for API endpoints, seeding logic, and/or UI components (using tools like Jest, React Testing Library, Cypress, etc).
-* **CI Integration:** Set up a basic GitHub Actions workflow for linting, tests, or build checks.
 
 ---
 

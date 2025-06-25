@@ -1,0 +1,20 @@
+61e04b8d53a4494bc929febf5ddb0f07679bb00b		branch 'feature/my-changes' of https://github.com/Bwinvit/basic_hw
+fd7053b94e1a12afc5e957636ecfab662def9cd6	not-for-merge	branch '0pmzza-codex/create-hotelstable-component-with-mui-x-datagrid' of https://github.com/Bwinvit/basic_hw
+466a18b78e06e4f27c4badf0071e330d8db3bad1	not-for-merge	branch 'codex/add-client-side-search-for-datagrid' of https://github.com/Bwinvit/basic_hw
+41bd8b1364c9689e812549cb0a6d9571d220172f	not-for-merge	branch 'codex/add-client-side-validation-with-zod' of https://github.com/Bwinvit/basic_hw
+a2c7c49897ff57b6eabee570e9f7ca982b1da36c	not-for-merge	branch 'codex/add-delete-column-with-api-call-in-datagrid' of https://github.com/Bwinvit/basic_hw
+10ae67c310a3f97873fee304579ad0d50ceb9ba8	not-for-merge	branch 'codex/add-delete-handler-for-room-deletion' of https://github.com/Bwinvit/basic_hw
+ab06cbadb7dc07b31a679fcf94ed42b876ac46ea	not-for-merge	branch 'codex/create-addroommodal-component' of https://github.com/Bwinvit/basic_hw
+50b3a56cdda283a6e165b9a4ecb2c9edba484d48	not-for-merge	branch 'codex/create-edithotelmodal-component' of https://github.com/Bwinvit/basic_hw
+afe93ff6a6bc61cfbcbb5434a9a73dd8cf330b37	not-for-merge	branch 'codex/create-hotelstable-component-with-mui-x-datagrid' of https://github.com/Bwinvit/basic_hw
+fa553600f46b6b64b6fb42b690ba357c6ee69f3c	not-for-merge	branch 'codex/create-page.tsx-for-hotels-with-datagrid' of https://github.com/Bwinvit/basic_hw
+0a64a9c23cb8ab482382e5f318d25567c3dea1da	not-for-merge	branch 'codex/create-page.tsx-with-hotels-data-grid' of https://github.com/Bwinvit/basic_hw
+f1ac8c9e37b48f33509aa4d280ca56ef359d520c	not-for-merge	branch 'codex/create-rooms-page-with-mui-datagrid-and-form' of https://github.com/Bwinvit/basic_hw
+feb7ab9e6742a7b1def7b0e833f0a07f01c73605	not-for-merge	branch 'codex/create-route.ts-for-hotel-rooms' of https://github.com/Bwinvit/basic_hw
+c85a22b27472028c443819d18b405f5c9248e060	not-for-merge	branch 'codex/create-route.ts-for-hotels-api' of https://github.com/Bwinvit/basic_hw
+4b7bbf922ee6b75f1f1e1433dc68cf12e84ec0ad	not-for-merge	branch 'codex/write-mongodb-utility-for-next.js-15' of https://github.com/Bwinvit/basic_hw
+93d5a682681968d9c1717e92dc6d25a9b50dd5bd	not-for-merge	branch 'codex/write-readme-for-hotel/rooms-next.js-app' of https://github.com/Bwinvit/basic_hw
+248886e6178e1c474e776ce95f5f173928084665	not-for-merge	branch 'codex/write-roomstable-client-component' of https://github.com/Bwinvit/basic_hw
+e84a854a6dce62f9f0af7ccf1853d0f4393a8093	not-for-merge	branch 'codex/write-seed.ts-to-seed-hotels-and-rooms' of https://github.com/Bwinvit/basic_hw
+61e04b8d53a4494bc929febf5ddb0f07679bb00b	not-for-merge	branch 'dev' of https://github.com/Bwinvit/basic_hw
+61e04b8d53a4494bc929febf5ddb0f07679bb00b	not-for-merge	branch 'main' of https://github.com/Bwinvit/basic_hw

@@ -1,0 +1,34 @@
+version: "3.8"
+
+services:
+  mongo:
+    image: mongo:7
+    container_name: mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: myuser
+      MONGO_INITDB_ROOT_PASSWORD: mypassword
+      MONGO_INITDB_DATABASE: hotels_db
+    volumes:
+      - mongo_data:/data/db
+
+  app:
+    build: .
+    container_name: nextjs_app
+    ports:
+      - "3000:3000"
+    depends_on:
+      - mongo
+    environment:
+      MONGODB_USER: myuser
+      MONGODB_PASSWORD: mypassword
+      MONGODB_DB: hotels_db
+      MONGODB_URI: mongodb://myuser:mypassword@mongo:27017/hotels_db
+    volumes:
+      - .:/app
+    command: "npm run dev"
+
+volumes:
+  mongo_data:
